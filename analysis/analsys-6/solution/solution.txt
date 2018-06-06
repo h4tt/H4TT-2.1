@@ -1,0 +1,10 @@
+One of the more advanced methods of steganography with JPEGs currently is the F5 algorithm
+https://github.com/jackfengji/f5-steganography
+
+will need to guess that the password is: flag
+(passwords are required for F5)
+
+decode:
+python utity.py -t x -i ./tests/F5.jpg -p flag
+
+flag{uncover-F5-steganography}
