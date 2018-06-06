@@ -1,0 +1,2 @@
+XOR the two images. Because they were both encrypted with XOR and the same key,
+both images will become visable when combined with XOR.
