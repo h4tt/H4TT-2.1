@@ -1,0 +1,58 @@
+Return-Path: <phillip.price@ecorp.com>
+Received: from [192.168.1.3] (CPE9cf387c94b66-CM68b6fc4575e0.cpe.net.cable.level3.com. [8.25.158.244])
+        by smtp.gmail.com with ESMTPSA id z2-v6sm7182328ita.37.2018.06.11.06.27.33
+        for <ecorp.noob@egmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Jun 2018 06:27:33 -0700 (PDT)
+From: Phillip Price <phillip.price@ecorp.com>
+Content-Type: multipart/encrypted;
+  boundary="Apple-Mail=_D6CEA913-5A97-4DF9-9C46-7416EB40AA77";
+  protocol="application/pgp-encrypted"
+Mime-Version: 1.0 (Mac OS X Mail 11.3 \(3445.6.18\))
+Subject: Welcome to Ecorp
+Message-Id: <F253F7AE-ED9D-4CED-BB1A-20EF591C39A3@gmail.com>
+Date: Mon, 11 Jun 2018 09:27:32 -0400
+To: John Doe <ecorp.noob@gmail.com>
+X-Mailer: Apple Mail (2.3445.6.18)
+
+This is an OpenPGP/MIME encrypted message (RFC 2440 and 3156)
+--Apple-Mail=_D6CEA913-5A97-4DF9-9C46-7416EB40AA77
+Content-Transfer-Encoding: 7bit
+Content-Type: application/pgp-encrypted
+Content-Description: PGP/MIME Versions Identification
+
+Version: 1
+
+--Apple-Mail=_D6CEA913-5A97-4DF9-9C46-7416EB40AA77
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+  filename=encrypted.asc
+Content-Type: application/octet-stream;
+  name=encrypted.asc
+Content-Description: OpenPGP encrypted message
+
+-----BEGIN PGP MESSAGE-----
+Version: OpenPGP v2.0.8
+Comment: GPGTools - https://gpgtools.org
+
+wcBMA6+IcuffGoWzAQgAv0clhK7h5aIvuDTRWnXjnmrM/ANx3WBG/Tmrh/3VaQZF
+qeWXMfPGNkxzrYWybjs1fiSiKKIrF1b2qOD7utKS1sNRUwcsH2DGcuBeEv2XBdVN
+lPPy9/vs/o8VK5lCEzlXnWvfV5azL0xdQO+vbvraa4uOasUiQP8hJ8K96x7NYVK2
+pait0cGw4oQufe5EU+TcF0TLRlk+MKgXUmE7kv+nj/q/ZH6jSZ1+rAYkiusCQsiM
+s4Ah7/WkAzHrdCfIpHqgdIaWhXczJU4pj5ARTwJmmscOn5I9JKzlskAeQtZyuSx/
+Fak5mv2rMrow7VcLwm0wMA/GfrC2GJ9Aynn8b/apaNLBWQH2l6kwx0G1vDw3bIXU
+qUS/mdBUXVeWsS5tnl94Yiii7FYhjSEqZUaEzaeUizj9cK4ewebVjEqQto3qtqUj
+bkV2BcZWcPI/IDtT4uldcZegHjSoIS/PnRRitcr4EhBekQBfPEW7pl43R5b7pHqJ
+wxV7jok2H79aurb5AASr5n6BHhr5U5d0xt0JrRee46dslaL4cFNRl2btkicc7lqc
+NJs/Sv3i9gHaNdpwu6pErPLwdMovKdbbwgTVftGLryvo++oL/5RXTP1m9fkljUXb
+XJw52ZzY44irq2sZDUhb282XMBg83+AgOQxKU85xW+VNZP7dPlUwnYVWc4w1UpQX
+kwbKLzivk2HiMwYf9djtRAlUX2SwR9xfnHIU+ecRPdhHyhugpaWZthJUt0hfxXwq
+5uBUt8GoTI0yW2cMMIjQIn0hTnigKK+yiSS5LNSnzOUjVVMtyzea25tD0Mq8gcUx
+RjipaPIOefITpWxymw5ymnQvzOu8MjvFJwHG17grHDs+Ntz7uQe6zmYrjPpUCtJ9
+ZMy6maiOqqN2uJngQqkCIXNw1DS2fgh1BqSJexkC3xGy2sBdaKkXnWoCtllc2XCf
+jrNlbR6BQk8Y6t+RmZqmC/+V9UAcpaenzLLOuUlALxwUwjpTCcn4i1FNy0tR+8pS
+tdsRoMOrjum+w76qkJTxayK21BLLuDU82K/e1bo2CaSFfukCO6KGXv36oA==
+=SIve
+-----END PGP MESSAGE-----
+
+--Apple-Mail=_D6CEA913-5A97-4DF9-9C46-7416EB40AA77--

@@ -1,0 +1,7 @@
+Hello John,
+
+I would like to welcome you to E Corp. On your first day you will need this important information.
+Your flag is: flag{exploiting-efail-for-the-flag}
+
+Regards,
+Phillip Price
