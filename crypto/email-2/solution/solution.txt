@@ -1,0 +1,10 @@
+When all of the numbers are converted to their ASCII values in, it reads
+
+Hey Mark,
+
+I'm starting to worry about people listening in. I think the previous email may be comprimised. I don't want to discuss any of the plans with you without proper measures in place. This method should be secure for the time being. The new token you will need is flag{4scii-wh4t-y0u-did-th3r3}.
+
+Until next time,
+Kat
+
+flag{4scii-wh4t-y0u-did-th3r3}
