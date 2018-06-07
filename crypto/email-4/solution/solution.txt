@@ -1,5 +1,5 @@
 When the body is translated with the alphabet
-['d', 'x', 'g', 'y', 't', 'r', 'n', 'b', 'm', 'j', 'e', 'u', 'l', 'o', 's', 'q', 'c', 'a', 'v', 'k', 'w', 'z', 'f', 'i', 'h', 'p'], it reads
+['g', 'q', 'a', 'y', 'x', 'p', 'u', 'b', 'l', 'e', 'm', 'v', 's', 'w', 'h', 'j', 'z', 'i', 'c', 'd', 'r', 'f', 'n', 'k', 't', 'o'], it reads
 
 Hey Kat,
 
@@ -12,6 +12,6 @@ Anyways, I'll be in contact soon about the updated plans.
 Cheers,
 Mark
 
-P.S. flag{4-p4ngram-5h0w3d-m3-th3-w4y}
+P.S. flag{4_p4ngram_5h0w3d_m3_th3_w4y}
 
-flag{4-p4ngram-5h0w3d-m3-th3-w4y}
+flag{4_p4ngram_5h0w3d_m3_th3_w4y}

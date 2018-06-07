@@ -2,9 +2,9 @@ When the body is decoded from base32, it reads
 
 Hey Kat,
 
-Found a different way to hide our messages, hope it's not a problem. I was looking through the documents, and found out some important info about the last time Evilcorp tried this project. I don't want to get into too much detail, but I can say that there were some unhappy politicians. Anyways, checkout the document named flag{h4lf-4s-h4rd-4s-b4s3-64} for some more information.
+Found a different way to hide our messages, hope it's not a problem. I was looking through the documents, and found out some important info about the last time Evilcorp tried this project. I don't want to get into too much detail, but I can say that there were some unhappy politicians. Anyways, checkout the document named flag{h4lf_4s_h4rd_4s_b4s3_64} for some more information.
 
 Cheers,
 Mark
 
-flag{h4lf-4s-h4rd-4s-b4s3-64}
+flag{h4lf_4s_h4rd_4s_b4s3_64}
