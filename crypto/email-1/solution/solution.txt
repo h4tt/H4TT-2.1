@@ -1,0 +1,5 @@
+When the caesar cipher Rot13 is applied to the body of the email, it reads
+
+As you know, we have the project coming up soon. Please make sure that the plans are ready, as I don't want to run into any issues during deployment. Note that I've used Rot13 for this message. Please make sure that you use it when writing to each other, in case anyone's email client gets comprimised. If you need authorization to higher levels of classified documents throughout this process, you can use the password flag{4r0und-th3-4lph4b3t-in-26-l3tt3rs}
+
+flag{4r0und-th3-4lph4b3t-in-26-l3tt3rs}
