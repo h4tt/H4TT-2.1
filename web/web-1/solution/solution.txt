@@ -1,0 +1,10 @@
+Step 1: read the documentation at /api/get-endpoints
+Step 2: go to /api/login and get yourself a JWT
+Step 3: crack the JWT (determin the secret key)
+Step 4: use the key to create a new JWT where the role is modified from user to admin (for assistance use tool at: https://jwt.io/)
+Step 5: follow the documentation on how to make a request to /api/get-flag
+
+note: (if you use your valid JWT without modifying the role, you will get "Forbidden" response.
+       if JWT is invalid, you will get "Unauthorized")
+
+flag{the-json-web-token-has-been-cracked!}
