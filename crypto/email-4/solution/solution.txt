@@ -1,0 +1,17 @@
+When the body is translated with the alphabet
+['d', 'x', 'g', 'y', 't', 'r', 'n', 'b', 'm', 'j', 'e', 'u', 'l', 'o', 's', 'q', 'c', 'a', 'v', 'k', 'w', 'z', 'f', 'i', 'h', 'p'], it reads
+
+Hey Kat,
+
+I recommend that we use this new cipher scheme. It's much harder to figure out. I've devised this new method. You'll be able to use the key in future emails, so be sure to keep it safe once you figure it out. Here is the calibration sentance,
+
+The quick brown fox jumps over the lazy dog
+
+Anyways, I'll be in contact soon about the updated plans.
+
+Cheers,
+Mark
+
+P.S. flag{4-p4ngram-5h0w3d-m3-th3-w4y}
+
+flag{4-p4ngram-5h0w3d-m3-th3-w4y}
