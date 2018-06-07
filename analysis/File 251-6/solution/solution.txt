@@ -1,0 +1,7 @@
+When the audio file is played in reverse, the middle section can now be heard. It says,
+
+The following audio clip was found in a file obtained by the f society recently. Audio log 251 dash 6,
+Beware, they fly their flag high. It reads reverse underscore sounds. The flag is a prize for those that can capture it.
+End of audio log 251 dash 6
+
+flag{reverse_sounds}
