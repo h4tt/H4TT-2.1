@@ -1,0 +1,4 @@
+Step 1: replace "MYEMAIL@gmail.com" with a real email (optional)
+Step 2: modify .eml to have the message you want and the proper bin ID (where the opening img tag is)
+Step 3: update send-message.py to have the right username, password and server for SMTP
+Step 4: send the email with send-message.py

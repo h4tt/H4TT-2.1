@@ -1,0 +1,3 @@
+Title: Secret Email
+Description: We intercepted this email VIA Wireshark. Only problem is that is is encrypted.
+Every attempt we made so far to decrypt the emails was a fail. See if you can crack it! <link to challenge.eml>

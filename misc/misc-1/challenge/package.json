@@ -1,0 +1,14 @@
+{
+  "name": "efail-challenge",
+  "version": "1.0.0",
+  "description": "A vulnerable PGP recipient to test the Efail exploit",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "mail-notifier": "^0.5.0",
+    "openpgp": "^3.0.10",
+    "phantom": "^4.0.12"
+  }
+}
