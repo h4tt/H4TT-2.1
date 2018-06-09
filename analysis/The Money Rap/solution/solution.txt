@@ -1,0 +1,3 @@
+When the words are wrapped with a 41 character line length, it shows the message
+
+flag{g3t_with_the_w0rd_wr4p}

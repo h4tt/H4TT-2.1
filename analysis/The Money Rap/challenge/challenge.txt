@@ -1,0 +1,4 @@
+Title: The Money Rap
+Description: We found this file in a remote server that has been used for Evilcorp archives. It seems that at one point, they were going to start an internal radio station, but this seems like the only remaining file from the pitch.
+Instructions: Include the money-rap.html file
+Possible hint: The words in the rap are mad fire
