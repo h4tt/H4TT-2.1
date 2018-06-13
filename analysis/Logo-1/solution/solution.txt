@@ -1,0 +1,3 @@
+When the shadows are brightened in the image, it displays the text
+
+flag{hiding_in_th3_sh4d0ws}
