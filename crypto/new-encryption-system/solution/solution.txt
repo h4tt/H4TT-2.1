@@ -1,0 +1,3 @@
+When the private key is brute forced, the unknown characters will be 17639458. When this is used to decrypt the final message, it reveals the flag.
+
+flag{d0nt_p4ss_th3_priv4t3_k3y}

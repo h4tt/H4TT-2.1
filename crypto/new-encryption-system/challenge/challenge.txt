@@ -1,0 +1,4 @@
+Title: The New Encryption System
+Description: Dr. Hinek has created a new encryption system for Evilcorp. He has made sure that is as secure as possible.
+Instructions: Include encryption.txt
+Possible hint: Maybe he is a bit too confident with the new system?
