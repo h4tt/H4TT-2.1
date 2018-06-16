@@ -1,0 +1,5 @@
+When the header of the file is replaced with the proper hex values,
+89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52
+The image will be able to be viewed
+
+flag{it_h4d_a_h3ad3r_ach3}

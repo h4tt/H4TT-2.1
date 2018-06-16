@@ -1,0 +1,4 @@
+Title: Logo 2
+Description: We have many versions of the Evilcorp logo that we have collected. See if there is any valuable information here.
+Instructions: Include the ECorp.png file
+Possible hint: I'm so meta, even this acronym

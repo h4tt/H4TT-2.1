@@ -1,0 +1,3 @@
+When the metadata is examined, for example on http://www.imageforensic.org, a layer that is not visible shows
+
+flag{hiding_in_th3_sh4d0ws}
