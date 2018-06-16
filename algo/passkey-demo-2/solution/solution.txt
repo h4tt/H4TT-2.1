@@ -1,0 +1,3 @@
+When the proper passkey is entered, the flag is revealed
+
+flag{b3t_y0u_us3d_w0lfr4m}
