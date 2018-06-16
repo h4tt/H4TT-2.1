@@ -1,0 +1,3 @@
+When the file flag.poo is interpreted throught the poo esolang interpreter, it gives
+
+flag(p00p)
