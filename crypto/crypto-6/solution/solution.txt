@@ -4,5 +4,4 @@ both images will become visable when combined with XOR.
 https://stackoverflow.com/questions/8504882/searching-for-a-way-to-do-bitwise-xor-on-images#40049271
 gmic a.png b.png -blend xor -o result.png
 
-flag{avoid-key-reuse
-}
+flag{avoid-key-reuse}

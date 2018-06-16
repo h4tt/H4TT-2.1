@@ -1,2 +1,2 @@
 title: "hAPI hacking"
-description: "E Corp has some valuable information that can be accessed through their API. Unfortunatly there is some authentication there. The documentation is at <ip address>/api/get-endpoints. See if you can find a way in.
+description: "E Corp has some valuable information that can be accessed through their API. Unfortunately there is some authentication there. The documentation is at <ip address>/api/get-endpoints. See if you can find a way in.
